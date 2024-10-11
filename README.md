@@ -1,6 +1,6 @@
 # Vozvn-scraping
 ### NOTICE: The loop in the VOZ\VOZ\spiders\voz.py are mistaken
-
+### this use edge agents, so if u use different agent , please change the user agent in setting.py
 ## How to use 
 1. Clone this git
 2. pip install scrapy
